@@ -1,0 +1,12 @@
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\bin\Release\Resources\PlayStats.txt
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\bin\Release\MineSweepGUI.exe.config
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\bin\Release\MineSweepGUI.exe
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\bin\Release\MineSweepGUI.pdb
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\obj\Release\MineSweepGUI.Form1.resources
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\obj\Release\MineSweepGUI.Form2.resources
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\obj\Release\MineSweepGUI.Form3.resources
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\obj\Release\MineSweepGUI.Properties.Resources.resources
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\obj\Release\MineSweepGUI.csproj.GenerateResource.cache
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\obj\Release\MineSweepGUI.csproj.CoreCompileInputs.cache
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\obj\Release\MineSweepGUI.exe
+C:\Git_Reps\SchoolWork\CST227\Mine_Game\MineSweepGUI\obj\Release\MineSweepGUI.pdb
